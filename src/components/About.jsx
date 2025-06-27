@@ -58,8 +58,8 @@ export default function About() {
 					<div>
 						<p className="md:text-3xl text-xl font-bold">
 							<span>4.5</span>
-							<p className="text-sm-text-white-100">More than +12000 customers</p>
 						</p>
+						<p className="text-sm-text-white-100">More than +12000 customers</p>
 					</div>
 				</div>
 			</div>
